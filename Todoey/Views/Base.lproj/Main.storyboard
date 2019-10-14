@@ -115,7 +115,7 @@
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
-                        <segue destination="Bjg-QO-du9" kind="show" identifier="toToItems" id="evV-IV-flg"/>
+                        <segue destination="Bjg-QO-du9" kind="show" identifier="toDoItems" id="evV-IV-flg"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="huO-l8-Ee5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
